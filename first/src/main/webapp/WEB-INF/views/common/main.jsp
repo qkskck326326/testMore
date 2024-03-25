@@ -183,7 +183,7 @@ $(function(){
 
 <%-- 최근 등록된 공지글 3개 출력 : ajax --%>
 <div style="float:left;border:1px solid navy;padding:5px;margin:5px;margin-left:150px;">
-	<h4>새로운 공지사항</h4>
+	<h4>새로운 공지사항 김시원</h4>
 	<table id="newnotice" border="1" cellspacing="0" width="350">
 		<tr><th>번호</th><th>제목</th><th>날짜</th></tr>
 	</table>
@@ -191,7 +191,7 @@ $(function(){
 
 <%-- 조회수 많은 인기게시글 3개 출력 : ajax --%>
 <div style="float:left;border:1px solid navy;padding:5px;margin:5px;margin-left:50px;">
-	<h4>인기 게시글</h4>
+	<h4>인기 게시글 김시원</h4>
 	<table id="toplist" border="1" cellspacing="0" width="350">
 		<tr><th>번호</th><th>제목</th><th>조회수</th></tr>
 	</table>
