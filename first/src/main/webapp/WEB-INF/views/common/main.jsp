@@ -191,7 +191,7 @@ $(function(){
 
 <%-- 조회수 많은 인기게시글 3개 출력 : ajax --%>
 <div style="float:left;border:1px solid navy;padding:5px;margin:5px;margin-left:50px;">
-	<h4>인기 게시글</h4>
+	<h4>인기 게시글 그는 누구인가</h4>
 	<table id="toplist" border="1" cellspacing="0" width="350">
 		<tr><th>번호</th><th>제목</th><th>조회수</th></tr>
 	</table>
